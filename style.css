@@ -1,0 +1,53 @@
+#lista {
+   text-align: center;
+}
+
+.caminhonetes li a {
+    font-size: 20px;
+    color: red;
+    text-decoration: none;
+}
+
+.caminhonetes li {
+    list-style: none;
+
+}
+
+.hatch li{
+    font-size: 25px;
+    list-style: none;
+}
+
+.hatch li a{
+    text-decoration: none;
+    color: green;
+}
+
+.sedan li{
+    font-size: 30px;
+    list-style: none;
+}
+.sedan li a{
+    text-decoration: none;
+    color: brown;
+}
+
+.supcar li {
+    font-size: 35px;
+    list-style: none;
+}
+
+.supcar li a{
+    text-decoration: none;
+    color:cornflowerblue
+}
+
+.suv li {
+    font-size: 40px;
+    list-style: none;
+
+}
+.suv li a{
+    text-decoration: none;
+    color: blueviolet;
+}
